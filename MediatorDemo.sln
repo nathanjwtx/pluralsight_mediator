@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp", "ChatApp\ChatApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationProximity", "LocationProximity\LocationProximity.csproj", "{2F910A0D-8BD5-4D4B-940E-2444746A222E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRDemo", "MediatRDemo\MediatRDemo.csproj", "{B56F5C5E-E30C-44F7-8CE7-482C8FAC5849}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2F910A0D-8BD5-4D4B-940E-2444746A222E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F910A0D-8BD5-4D4B-940E-2444746A222E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F910A0D-8BD5-4D4B-940E-2444746A222E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56F5C5E-E30C-44F7-8CE7-482C8FAC5849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56F5C5E-E30C-44F7-8CE7-482C8FAC5849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56F5C5E-E30C-44F7-8CE7-482C8FAC5849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56F5C5E-E30C-44F7-8CE7-482C8FAC5849}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
